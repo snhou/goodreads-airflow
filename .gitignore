@@ -1,0 +1,8 @@
+config.json
+config_william.json
+__pycache__/
+*.txt
+.DS_Store
+.vscode/
+/venv
+!requirements.txt
